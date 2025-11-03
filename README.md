@@ -8,18 +8,12 @@ Chào mừng bạn đến với Cat Adventure: Jump & Run, một game platformer
 Bị lạc chủ, chú mèo dũng cảm của chúng ta thức dậy ở một vùng đất xa xôi. Thay vì bỏ cuộc, chú bắt đầu hành trình trở về nhà. Trên đường đi, chú sẽ nhảy qua những thế giới bí ẩn, tránh những cạm bẫy chết người, giải đố và vượt qua vô số thử thách.  
 Đây không chỉ là một trò chơi — mà là câu chuyện về **tình yêu, sự trưởng thành và mối liên kết giữa hai tâm hồn**.
 
----
-
 ## 🌐 CHPLAY
 🔗 [Cat Adventure: Jump & Run trên Google Play](https://play.google.com/store/apps/details?id=com.mfs06mt.cat)
-
----
 
 ## 🎬 Video giới thiệu
 
 [![Xem video demo](https://img.youtube.com/vi/5c8FWt803rc/0.jpg)](https://youtu.be/5c8FWt803rc?si=VpAfPAfW04KtmP_8)  
-
----
 
 ## 🖼️ Hình ảnh giao diện
 <img width="256" height="256" alt="avatar" src="https://github.com/user-attachments/assets/fc425867-a34f-4b3f-8dea-6e9f49442d74" />
