@@ -19,7 +19,6 @@ Bị lạc chủ, chú mèo dũng cảm của chúng ta thức dậy ở một v
 
 [![Xem video demo](https://img.youtube.com/vi/5c8FWt803rc/0.jpg)](https://youtu.be/5c8FWt803rc?si=VpAfPAfW04KtmP_8)  
 
-
 ---
 
 ## 🖼️ Hình ảnh giao diện
