@@ -17,7 +17,7 @@ Bị lạc chủ, chú mèo dũng cảm của chúng ta thức dậy ở một v
 
 ## 🖼️ Hình ảnh giao diện
 <img width="256" height="256" alt="avatar" src="https://github.com/user-attachments/assets/fc425867-a34f-4b3f-8dea-6e9f49442d74" />
-
+![Cat](https://github.com/user-attachments/assets/6e38dfb7-aefb-4ef5-aa83-729c8cf0b64f)
 ![1](https://github.com/user-attachments/assets/633dafaf-dcd8-4a15-931b-2020ba9d5c54)
 ![2](https://github.com/user-attachments/assets/aff98a23-ddd3-4d65-af4b-01765f6d61ab)
 <img width="2699" height="1193" alt="3" src="https://github.com/user-attachments/assets/dbd84e71-3607-460d-b0b5-975f4e507181" />
