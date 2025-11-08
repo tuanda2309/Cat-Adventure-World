@@ -47,7 +47,7 @@ Bị lạc chủ, chú mèo dũng cảm của chúng ta thức dậy ở một v
 Trên đường đi, chú sẽ nhảy qua những thế giới bí ẩn, tránh những cạm bẫy chết người, giải đố và vượt qua vô số thử thách.  
 Đây không chỉ là một trò chơi — mà là câu chuyện về **tình yêu, sự trưởng thành và mối liên kết giữa hai tâm hồn**.
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f971db5b-ed41-463c-9d0f-42be1476dce4" /> CHPLAY
+## 🌐 Google Play
 🔗 [Cat Adventure: Jump & Run trên Google Play](https://play.google.com/store/apps/details?id=com.mfs06mt.cat)
 
 ## 🎬 Video giới thiệu
